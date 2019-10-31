@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "description": "Shows where the light level is < 8, allowing monsters to spawn.",
+        "pack_format": 4,
+        "custom": {
+            "author": "Marcono1234",
+            "version": "1.0",
+            "url": "https://github.com/Marcono1234/light-level-spawning-datapack",
+            "dependencies": [
+                {
+                    "url": "https://github.com/Marcono1234/light-level-datapack",
+                    "version": "1.0"
+                }
+            ]
+        }
+    }
+}

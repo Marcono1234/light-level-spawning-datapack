@@ -1,0 +1,16 @@
+{
+    "criteria": {
+        "consumeMundanePotion": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "item": "potion",
+                    "potion": "mundane"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "marcono1234:light_level_spawning/_check_activate"
+    }
+}

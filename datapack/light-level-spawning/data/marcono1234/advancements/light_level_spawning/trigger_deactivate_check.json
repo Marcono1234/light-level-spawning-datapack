@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "inventoryChanged": {
+            "trigger": "inventory_changed"
+        }
+    },
+    "rewards": {
+        "function": "marcono1234:light_level_spawning/_check_deactivate"
+    }
+}
